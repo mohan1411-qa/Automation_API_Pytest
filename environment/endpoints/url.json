@@ -1,0 +1,6 @@
+{
+  "list_user": "{}/api/users?",
+  "single_user": "{}/api/users/",
+  "create_user": "{}/api/users"
+
+}
